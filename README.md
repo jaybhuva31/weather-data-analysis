@@ -68,11 +68,6 @@ This project demonstrates how raw weather data can be transformed into meaningfu
 
 ---
 
-## 💼 Author
-- Your Name  
-
----
-
 ## ⭐ Future Improvements
 - Add machine learning model for rain prediction  
 - Build interactive dashboard using Streamlit  
